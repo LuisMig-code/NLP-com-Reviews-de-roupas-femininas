@@ -1,5 +1,5 @@
 # NLP com Reviews de roupas femininas:
-<img src="https://images.pexels.com/photos/6567737/pexels-photo-6567737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
+<img src="https://images.pexels.com/photos/6567737/pexels-photo-6567737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" width=720>
 
 ## PT-BR:
 <p>
